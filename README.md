@@ -25,8 +25,8 @@ final class ResourceName extends Resource
             // ....
             EnhancedTextarea::make('Description', 'description')
                 ->rules('nullable', 'string', 'max:1000')
-                ->hideFromIndex(),
-                ->maxLength(1000)
+                ->hideFromIndex()
+                ->maxLength(1000),
                 // ...
         ];
     }
