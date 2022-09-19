@@ -6,7 +6,7 @@
 
 1. Add the `EnhancedTextarea` field to your Nova Resource.
 
-2. Call `->maxLength()` method to define the max number of characters the field should show.
+2. Call the `->maxLength()` method to define the max number of characters that the field should show.
 
 ```php
 <?php
