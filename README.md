@@ -1,6 +1,10 @@
 # Laravel Nova Enhanced Textarea Field
 
-> Custom Textarea Field with character count
+<p align="center">
+    <img src="./banner.jpeg" />
+</p>
+
+> A custom Textarea Field for Nova with character count
 
 ## Use
 
