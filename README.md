@@ -6,6 +6,24 @@
 
 > A custom Textarea Field for Nova with character count
 
+[![Stable Version](http://poser.pugx.org/ardenthq/nova-enhanced-textarea/v)](https://packagist.org/packages/ardenthq/nova-enhanced-textarea) [![License](http://poser.pugx.org/ardenthq/nova-enhanced-textarea/license)](https://packagist.org/packages/ardenthq/nova-enhanced-textarea) [![PHP Version Require](http://poser.pugx.org/ardenthq/nova-enhanced-textarea/require/php)](https://packagist.org/packages/ardenthq/nova-enhanced-textarea)
+
+## Features
+
+- For Laravel Nova ^4.0
+- Character count and maxLength warning
+
+<p align="center">
+    <img src="./screenshot-1.png" />
+    <img src="./screenshot-2.png" />
+</p>
+
+## Installation
+
+```console
+composer require ardenthq/nova-enhanced-textarea
+```
+
 ## Use
 
 1. Add the `EnhancedTextarea` field to your Nova Resource.
