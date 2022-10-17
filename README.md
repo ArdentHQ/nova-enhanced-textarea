@@ -8,6 +8,9 @@
 
 [![Stable Version](http://poser.pugx.org/ardenthq/nova-enhanced-textarea/v)](https://packagist.org/packages/ardenthq/nova-enhanced-textarea) [![License](http://poser.pugx.org/ardenthq/nova-enhanced-textarea/license)](https://packagist.org/packages/ardenthq/nova-enhanced-textarea) [![PHP Version Require](http://poser.pugx.org/ardenthq/nova-enhanced-textarea/require/php)](https://packagist.org/packages/ardenthq/nova-enhanced-textarea)
 
+> **Note**
+> this feature has been added to Nova's own `TextArea` component starting with [Nova 4.16.0](https://nova.laravel.com/releases/4.16.0). Please make use of the built-in feature over this package.
+
 ## Features
 
 - For Laravel Nova ^4.0
